@@ -1,3 +1,4 @@
+---
 name: "alternative-coffee-intelligence"
 description: |
 Alternative Slowbar coffee intelligence system. Scientific coffee analysis from seed to cup
