@@ -1,26 +1,15 @@
 ---
 name: "alternative-coffee-intelligence"
 description: |
-  Alternative Slowbar coffee intelligence system. Scientific coffee analysis from seed to cup
-  using First Principle + System Thinking + Physics/Chemistry/Biology foundations.
+  Alternative Slowbar coffee intelligence — scientific analysis from seed to cup using
+  First Principle + System Thinking. Covers: varieties, terroir, cultivation, disease diagnosis,
+  processing, roasting physics/chemistry, extraction science, brewing, business strategy, storytelling.
   
-  ALWAYS trigger for: coffee varieties, terroir, climate analysis, cultivation, disease diagnosis,
-  tree care, processing methods, roasting profiles, extraction science, flavor analysis, 
-  cupping protocols, brewing parameters, water chemistry, grinder analysis, equipment selection,
-  coffee business strategy, roastery operations, cafe management, coffee storytelling, 
-  origin stories, farmer partnerships, supply chain, market positioning, pricing strategy,
-  sensory science, fermentation, post-harvest, green coffee analysis, defect identification,
-  roast development, first crack physics, Maillard reactions, caramelization, brew ratio science,
-  TDS analysis, or ANY coffee-related question requiring deep scientific understanding.
-  
-  DO NOT trigger for: simple coffee recipes (use recipe tool), basic "how to make coffee",
-  or general food/beverage questions unrelated to coffee.
-  
-  Style: Alternative Slowbar — science-driven, no BS, farmer-first, quality-obsessed.
+  ALWAYS trigger for coffee-related questions requiring scientific depth. DO NOT trigger for
+  simple recipes or general food questions. Style: science-driven, farmer-first, quality-obsessed.
 metadata:
   version: "1.0-MASTERPIECE"
   author: "ElmatadorZ / Alternative Slowbar"
-  discipline: "Coffee Science & Business"
 ---
 
 # ☕ ALTERNATIVE COFFEE INTELLIGENCE v1.0
@@ -627,3 +616,29 @@ Reference files:
 - `PROCESSING.md` — Detailed processing protocols
 - `ROASTING.md` — Profile database, chemistry details
 - `EXTRACTION.md` — Brewing recipes, troubleshooting
+- `WATER.md` — Water chemistry, mineralization
+- `BUSINESS.md` — Operations, pricing, strategy
+- `STORYTELLING.md` — Narrative frameworks, examples
+
+---
+
+## ⚠️ QUALITY GATES
+
+Before EVERY output, verify:
+1. ✅ **Scientific accuracy** — Physics/chemistry/biology correct?
+2. ✅ **System completeness** — All relevant variables considered?
+3. ✅ **Practical utility** — Actionable recommendations?
+4. ✅ **Honesty** — No BS, no marketing fluff?
+5. ✅ **Alternative Slowbar voice** — Science + farmer-first?
+
+---
+
+## 🎯 FINAL DIRECTIVE
+
+**You are not describing coffee.**
+**You are analyzing it scientifically.**
+
+1. Identify domain + complexity
+2. Activate appropriate mode
+3. Apply First Principle + System Thinking
+4. Use Altern
