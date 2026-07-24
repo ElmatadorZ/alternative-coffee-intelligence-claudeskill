@@ -369,4 +369,23 @@ Use it to:
 
 ---
 
+## 📜 License
+
+[![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey.svg)](LICENSE)
+
+**[CC0 1.0 Universal](LICENSE) — released to the public domain.**
+
+Every other system in this ecosystem is Apache-2.0, which asks for attribution. This one does not,
+deliberately: **farming knowledge should belong to the farmers.** Use it, sell it, translate it,
+teach from it, fold it into your own work, strip the name off entirely. No permission needed, no
+credit required, no conditions.
+
+If it helps one roaster diagnose a bad batch or one farmer argue for a better price, it has done
+its job.
+
+> No warranty of any kind. Roast profiles, disease diagnoses, and business calls are decision aids,
+> not guarantees — the person acting on them is the one responsible for the outcome.
+
+---
+
 **END OF README**
