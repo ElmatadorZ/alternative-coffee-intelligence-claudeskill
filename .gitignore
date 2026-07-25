@@ -1,0 +1,11 @@
+# Python bytecode and tooling caches — never committed.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environments and editors
+.venv/
+venv/
+.env
+.idea/
+.vscode/
